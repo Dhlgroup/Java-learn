@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class JavaV1 {
     public static void main(String[] args) {
-      Scanner Input = new Scanner(System.in);
-
+      Scanner input = new Scanner(System.in);
       System.out.println("Enter your name");
-      String name = Input.nextLine();
+      String name = input.nextLine();
       System.out.println("Your name is " + name);
+      input.close();
+      }
     }
-}
