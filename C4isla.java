@@ -14,7 +14,10 @@ public class C4isla {
         System.out.println("Age = "+age);
 
         char grade = 'A' ;
+        boolean isRain;
+        isRain = true;
         System.out.println("Grade = "+ grade);
+        System.out.println("Is Rain Go? " + isRain);
 
 
         float cornerDigre = 43.2F;
