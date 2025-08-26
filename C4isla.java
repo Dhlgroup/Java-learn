@@ -15,18 +15,18 @@ public class C4isla {
 
 
         float cornerDigre = 43.2F;
-        double temprecha1 = 37.9D;
+        double temperature1 = 37.9D;
         double workProcentReady = 78.7;
 
         System.out.println("Corner Digre = "+ cornerDigre);
-        System.out.println("Temprecha 1 = "+ temprecha1);
+        System.out.println("Temprature 1 = "+ temperature1);
         System.out.println("Work Ready = " + workProcentReady);
 
-        double temprecha2 = -16.7;
-        double togetherTemp = temprecha1 + temprecha2;
+        double temperature2 = -16.7;
+        double togetherTemp = temperature1 + temperature2;
 
-        System.out.println("Together temp = " + temprecha1 + temprecha2);
+        System.out.println("Together temp = " + temperature1 + temperature2);
         System.out.println("Together = "+ togetherTemp);
-        
+
     }
 }
