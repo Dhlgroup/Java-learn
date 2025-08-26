@@ -13,6 +13,9 @@ public class C4isla {
         System.out.println("year = "+year);
         System.out.println("Age = "+age);
 
+        char grade = 'A' ;
+        System.out.println("Grade = "+ grade);
+
 
         float cornerDigre = 43.2F;
         double temperature1 = 37.9D;
@@ -27,6 +30,8 @@ public class C4isla {
 
         System.out.println("Together temp = " + temperature1 + temperature2);
         System.out.println("Together = "+ togetherTemp);
+        
+        System.out.println(age + grade); // Спросить у Андрея как этог работает
 
     }
 }
