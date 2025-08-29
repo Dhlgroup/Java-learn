@@ -34,7 +34,9 @@ public class C4isla {
         System.out.println("Together temp = " + temperature1 + temperature2);
         System.out.println("Together = "+ togetherTemp);
         
-        System.out.println(age + grade); // Спросить у Андрея как этог работает
+        System.out.println(age + grade); 
+        final int pasword = 2436672;
+        System.out.println("Pasword = "+ pasword);
 
     }
 }
