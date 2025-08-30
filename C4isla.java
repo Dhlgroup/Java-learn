@@ -35,8 +35,9 @@ public class C4isla {
         System.out.println("Together = "+ togetherTemp);
         
         System.out.println(age + grade); 
-        final int pasword = 2436672;
-        System.out.println("Pasword = "+ pasword);
 
+        final int pasword = 2436672; // Обьявление константы
+
+        System.out.println("Pasword = "+ pasword);
     }
 }
